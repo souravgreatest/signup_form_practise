@@ -35,6 +35,6 @@ function signup(){
         }
     }
     else{
-        alert("condition to pass krwade phle, lowdee!!")
+        alert("Extremely Sorry! I forgot to remove that! That was just for fun with my friend and to check functionality!")
     }
 }
